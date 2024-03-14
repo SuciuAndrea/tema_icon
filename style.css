@@ -1,0 +1,92 @@
+.first {
+    margin-left: 1100px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.email {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(73, 58, 58);
+    margin: 15px 230px 15px 1100px;
+}
+
+.password {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(109, 87, 87);
+    margin: 15px 230px 15px 1100px;
+
+}
+
+.remember {
+    margin-left: 1100px;
+}
+
+.log {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: rgb(126, 26, 187);
+    background-size: 100px;
+    margin: 15px 230px 15px 1100px;
+    text-align: center;
+    color: white;
+}
+
+.google {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: rgb(237, 89, 89);
+    background-size: 100px;
+    margin: 15px 230px 15px 1100px;
+    text-align: center;
+    color: white;
+}
+
+.facebook {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: rgb(47, 11, 179);
+    background-size: 100px;
+    margin: 15px 230px 15px 1100px;
+    text-align: center;
+    color: white;
+}
+
+.forgot {
+    color: rgb(202, 135, 238);
+    margin: 100px 20px 100px 1100px;
+
+
+}
+
+.create {
+    color: rgb(57, 128, 227);
+    margin: 100px 20px 100px 1100px;
+}
+
+.lines1 {
+    width: 30%;
+    margin-right: 165px;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.lines2 {
+    width: 30%;
+    margin-right: 165px;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
